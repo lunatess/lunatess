@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lunatess
-- 👀 I’m interested in learning C# and git
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in learning full-stack web development
+- 🌱 I’m currently learning HTML, CSS and javascript
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
